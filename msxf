@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Day - xatFrame</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css2?family=Cookie&family=Engagement&family=Oswald:wght@200&family=Rammetto+One&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="msxf.css">
+    </head>
+    <body>
+    <div style="background-image: url('https://image.freepik.com/free-psd/black-white-effect-woman-holding-skull_23-2148313877.jpg');">
+        <div class="jd__scene">
+            <div class="jd__sun"></div>
+            <img class="jd__cloud1" src="https://i.postimg.cc/KzBw7tz8/cloud1.png">
+            <img class="jd__cloud2" src="https://i.postimg.cc/0jv3VrMd/cloud2.png">
+            <img class="jd__cloud3" src="https://i.postimg.cc/VN32bKzh/cloud3.png">
+            <img class="jd__cloud4" src="https://i.postimg.cc/0jv3VrMd/cloud2.png">
+            <img class="jd__cloud5" src="https://i.postimg.cc/VN32bKzh/cloud3.png">
+            <img class="jd__cloud6" src="https://i.postimg.cc/KzBw7tz8/cloud1.png">
+    </body>
+</html>
